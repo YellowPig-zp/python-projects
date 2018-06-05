@@ -1,0 +1,5 @@
+The codes are first written in example_cy.pyx. Then the setup.py file is created. 
+
+Then, run "python3 setup.py build_ext --inplace" in terminal to build. 
+
+The example_cy module is now freely importable in python
